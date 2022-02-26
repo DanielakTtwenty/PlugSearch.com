@@ -1,12 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-
-.bg-search-light {
-    background: radial-gradient(50% 118.54% at 50% 27.42%, #008080 0%, #C4C4C4 100%);
-}
-
-.bg-search-dark {
-    background: radial-gradient(50% 118.54% at 50% 27.42%, #005051 0%, #494B4B 100%);
-}
